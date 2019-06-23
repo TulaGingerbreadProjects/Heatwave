@@ -2,27 +2,5 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.22",
 	"Category": "",
-	"Description": "",
-	"Plugins": [
-		{
-			"Name": "EditorTests",
-			"Enabled": true
-		},
-		{
-			"Name": "FbxAutomationTestBuilder",
-			"Enabled": true
-		},
-		{
-			"Name": "FunctionalTestingEditor",
-			"Enabled": true
-		},
-		{
-			"Name": "RuntimeTests",
-			"Enabled": true
-		},
-		{
-			"Name": "ScreenshotTools",
-			"Enabled": true
-		}
-	]
+	"Description": ""
 }
