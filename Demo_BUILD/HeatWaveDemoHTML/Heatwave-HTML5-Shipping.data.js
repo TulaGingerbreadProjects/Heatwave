@@ -173,6 +173,6 @@ Module['FS_createPath']('/Heatwave/Content', 'Paks', true, true);
   }
 
  }
- loadPackage({"files": [{"start": 0, "audio": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"start": 53, "audio": 0, "end": 89, "filename": "/UE4CommandLine.txt"}, {"start": 89, "audio": 0, "end": 68493943, "filename": "/Heatwave/Content/Paks/Heatwave-HTML5.pak"}], "remote_package_size": 68493943, "package_uuid": "a838a889-62e7-4bc3-bb8a-af09992b5863"});
+ loadPackage({"files": [{"start": 0, "audio": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"start": 53, "audio": 0, "end": 89, "filename": "/UE4CommandLine.txt"}, {"start": 89, "audio": 0, "end": 68500882, "filename": "/Heatwave/Content/Paks/Heatwave-HTML5.pak"}], "remote_package_size": 68500882, "package_uuid": "846cd5f8-e03e-4b5d-a835-10c33ae71ac3"});
 
 })();
